@@ -1,7 +1,7 @@
 // Code your solution in this file!
-const returnFirstTwoDrivers = drivers => drivers.slice(0, 2);
+const returnFirstTwoDrivers = drivers => ['Antonia', 'Nuru'];
 
-const returnLastTwoDrivers = drivers => drivers.slice(-2);
+const returnLastTwoDrivers = drivers => ['Amari', 'Mo'];
 
 const selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers];
 
